@@ -1,3 +1,3 @@
 # teste
-##Edinting the file
+## Edinting the file
 "It's a markdown file in this repository"
